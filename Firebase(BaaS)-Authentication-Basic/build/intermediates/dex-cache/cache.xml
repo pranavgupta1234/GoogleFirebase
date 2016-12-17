@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_27b3a07eea3d924d68a0c333f8a30a9aaeddfa72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_41b0e93f964163fd028504dfab16b028b3634dc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.0_c23c4c78f1a4621142b0d6781d70175658d71b41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f5102ac816fec9ddadbd59935897cd80597a5027">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_62601e6b9bdfa3a321b05712a5db8c4feb4ffc15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_d356a0a912ab5d5204da88126ff5f426e0e681bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.0_61bbebfcc1c9e2ee75acd3ade1387cc70c0a8309\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_26a8df8d198172423da241bb2d8a4adbcfb7e5ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_244ea350f19634c7c5e04aa10bc8af3db540eea5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_718791a4fc918a5460ac4af2ad382f5fa61f9e11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_e93782939ad10b74a56c8fb9f48e9d6cf47fbcb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_73728a6405415b93ea62477d93cfeeb23a6233b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a0338735680c8af1aa60736d9e0c0b705d6da1ae">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9755bc43781320a8519d97ad73a19891a4c97343\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_2eede4377cee0b873e3a1befc8c1efaf02c408f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="33203b081101ca6242a4cd746aafe5fc2dd98a34">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.0_1c077da7560a6822fcd027d4c4b96f8aa7c76e19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_b3a5e6c26ef580b23cde15208ccc089548b776d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_a0de4eff665b81753abe3ba3e3a1818714c326d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_15af3d5d2c6dce4f0a4753ffebd5f85bddaedc78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_27924c02a1ccfa652446627f7584170ecfd5f8fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7572433ba21aa9e4624c819fa738b2748b82d05">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.2.0_c802e81702fe1490b9a5ec14fd7b163dc45dd13c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.0_e8e53c11f1f7efcd5c95fe9d7fa457d00225d06d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="E:\AndroidStudioApps\GoogleFirebase\Firebase-Database-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.0_a5d5f8116ab463d397b812dca42348dd8c191531\classes.dex" />
+    </item>
+
+</items>
